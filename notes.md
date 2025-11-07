@@ -12,5 +12,3 @@ Prefer-color-scheme media query
 Accessibility
 - Use corret heading tags
 - apply screenreader-only text for card title/username (make a text hidden and can only be accessible using screenreader)
-
-
